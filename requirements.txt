@@ -9,3 +9,4 @@ faiss-cpu
 rank-bm25
 langchain
 psycopg2-binary
+PyPDF2
