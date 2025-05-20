@@ -1,0 +1,11 @@
+streamlit
+pdf2image
+Pillow
+pydantic
+pydantic-settings
+google-genai
+numpy
+faiss-cpu
+rank-bm25
+langchain
+psycopg2-binary
