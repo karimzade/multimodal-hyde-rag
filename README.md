@@ -1,5 +1,3 @@
-![App Screenshot](flowchart.png)
-
 # Multimodal HyDE RAG
 
 A Streamlit-based chat application that implements Hypothetical Document Embeddings (HyDE) and multimodal RAG (Retrieval-Augmented Generation) for enhanced document interaction. This application allows users to upload PDF documents, process them with optional OCR capabilities, and engage in context-aware conversations about their content using Google's Gemini API.
